@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for my Coursera exercises
+The repo of  my Coursera exercises
